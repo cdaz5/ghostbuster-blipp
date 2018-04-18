@@ -1,0 +1,8 @@
+{
+    "markers": [
+        {
+        "filename": "poster.jpg",
+        "detectmode": "onDetect"
+        }
+    ]
+}
